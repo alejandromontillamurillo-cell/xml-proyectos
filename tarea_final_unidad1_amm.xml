@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <nombre-de-playlist>Montilla Sound</nombre-de-playlist>
+    <nombre-del-creador>Montilla</nombre-del-creador>
+    <cancion nombre-cancion="Mis cadenas brillantes" favorita="no">
+        <artista>Clarent</artista>
+        <album>STAR</album>
+        <duracion>3:45</duracion>
+        <genero>Trap</genero>
+        <ano-de-lanzamiento>2021</ano-de-lanzamiento>
+    </cancion>
+    <cancion nombre-cancion="Lamin" favorita="si">
+        <artista>Quevedo</artista>
+        <album>Comun</album>
+        <duracion>2:05</duracion>
+        <genero>Regueton</genero>
+        <ano-de-lanzamiento>2023</ano-de-lanzamiento>
+    </cancion>
+    <cancion nombre-cancion="Soy un popstar" favorita="si">
+        <artista>Milo</artista>
+        <album>Los mas</album>
+        <duracion>3:35</duracion>
+        <genero>pop</genero>
+        <ano-de-lanzamiento>2022</ano-de-lanzamiento>
+    </cancion>
+</playlist>
