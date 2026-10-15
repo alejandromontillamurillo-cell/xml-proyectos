@@ -1,36 +1,36 @@
-# 📂 Proyectos y tareas XML
+# 📂 XML Projects and Assignments
 
-Repositorio dedicado a la realización, organización y entrega de prácticas y actividades relacionadas con **XML**, correspondientes a la Unidad 1.
+Repository dedicated to the development, organization, and submission of XML exercises and assignments corresponding to Unit 1.
 
-En este repositorio se recopilan los ejercicios realizados durante el aprendizaje de XML, con el objetivo de practicar la creación, estructuración y organización de documentos mediante este lenguaje de marcado.
-
----
-
-## 📌 Información del proyecto
-
-- **Nombre del repositorio:** `xml-proyectos`
-- **Área de trabajo:** Lenguajes de marcas
-- **Unidad:** Unidad 1
-- **Tecnología principal:** XML
-- **Formato de los archivos:** `.xml`
-- **Plataforma de almacenamiento:** GitHub
+This repository contains practical exercises completed while learning XML, with the aim of developing skills in creating, structuring, and organizing documents using this markup language.
 
 ---
 
-## 🎯 Objetivos
+## 📌 Project Information
 
-Los principales objetivos de este repositorio son:
-
-- Comprender la estructura y sintaxis de los documentos XML.
-- Crear documentos XML bien organizados y estructurados.
-- Utilizar correctamente las etiquetas, los atributos y los elementos.
-- Practicar la organización jerárquica de la información.
-- Desarrollar buenas prácticas de organización y documentación de archivos.
-- Mantener un registro de las actividades realizadas mediante GitHub.
+- **Repository Name:** `xml-proyectos`
+- **Subject Area:** Markup Languages
+- **Unit:** Unit 1
+- **Main Technology:** XML
+- **File Format:** `.xml`
+- **Hosting Platform:** GitHub
 
 ---
 
-## 📁 Estructura del repositorio
+## 🎯 Objectives
+
+The main objectives of this repository are:
+
+- Understand the structure and syntax of XML documents.
+- Create well-organized and properly structured XML files.
+- Correctly use tags, attributes, and elements.
+- Practice the hierarchical organization of information.
+- Develop good file organization and documentation practices.
+- Maintain a record of completed assignments using GitHub.
+
+---
+
+## 📁 Repository Structure
 
 ```text
 xml-proyectos/
@@ -46,44 +46,44 @@ xml-proyectos/
 
 ---
 
-## 📝 Actividades realizadas
+## 📝 Completed Assignments
 
-| Archivo | Descripción |
+| File | Description |
 |---|---|
-| `tarea1_unidad1_amm.xml` | Primera actividad de la Unidad 1. |
-| `tarea2_unidad1_amm.xml` | Segunda actividad de la Unidad 1. |
-| `tarea3_unidad1_amm.xml` | Tercera actividad de la Unidad 1. |
-| `tarea4_unidad1_amm.xml` | Cuarta actividad de la Unidad 1. |
-| `tarea5_unidad1_amm.xml` | Quinta actividad de la Unidad 1. |
-| `tarea_final_unidad1_amm.xml` | Actividad final de la Unidad 1. |
+| `tarea1_unidad1_amm.xml` | First assignment of Unit 1. |
+| `tarea2_unidad1_amm.xml` | Second assignment of Unit 1. |
+| `tarea3_unidad1_amm.xml` | Third assignment of Unit 1. |
+| `tarea4_unidad1_amm.xml` | Fourth assignment of Unit 1. |
+| `tarea5_unidad1_amm.xml` | Fifth assignment of Unit 1. |
+| `tarea_final_unidad1_amm.xml` | Final assignment of Unit 1. |
 
-*Nota: las descripciones concretas de cada actividad pueden ampliarse según los ejercicios que incluya cada archivo.*
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-- **XML (Extensible Markup Language):** lenguaje de marcado utilizado para estructurar y almacenar información.
-- **GitHub:** plataforma utilizada para alojar, organizar y mantener un historial de versiones del proyecto.
-- **Visual Studio Code:** editor de código utilizado para trabajar con los documentos, si procede.
+*Note: Specific descriptions can be added according to the content of each XML file.*
 
 ---
 
-## ▶️ Cómo utilizar el repositorio
+## 🛠️ Technologies and Tools
 
-1. Accede al repositorio en GitHub.
-2. Selecciona el archivo XML que quieras consultar.
-3. Abre el archivo para visualizar su contenido.
-4. Si deseas trabajar con los ejercicios localmente, descarga el repositorio o clónalo en tu equipo.
-5. Abre los documentos con un editor de texto o código compatible con XML.
+- **XML (Extensible Markup Language):** A markup language used to structure and store information.
+- **GitHub:** A platform used to host, organize, and track changes to the project.
+- **Visual Studio Code:** A code editor used to work with XML documents, if applicable.
 
-Para clonar el repositorio mediante Git, ejecuta:
+---
+
+## ▶️ How to Use This Repository
+
+1. Access the repository on GitHub.
+2. Select the XML file you want to explore.
+3. Open the file to view its contents.
+4. To work with the assignments locally, download or clone the repository.
+5. Open the documents using a text editor or code editor that supports XML.
+
+To clone the repository using Git, run the following command:
 
 ```bash
 git clone https://github.com/alejandromontillamurillo-cell/xml-proyectos.git
 ```
 
-Después, accede a la carpeta del proyecto:
+Then, navigate to the project directory:
 
 ```bash
 cd xml-proyectos
@@ -91,31 +91,31 @@ cd xml-proyectos
 
 ---
 
-## ✅ Buenas prácticas
+## ✅ Best Practices
 
-Durante el desarrollo de las actividades se busca mantener:
+The following practices are encouraged throughout the development of the assignments:
 
-- Una estructura XML ordenada y coherente.
-- Una correcta apertura y cierre de las etiquetas.
-- Una jerarquía adecuada de elementos.
-- Una indentación que facilite la lectura del código.
-- Nombres de archivo claros y consistentes.
-- Un historial de cambios organizado mediante GitHub.
-
----
-
-## 📈 Seguimiento del proyecto
-
-Este repositorio sirve como registro del trabajo realizado durante la Unidad 1. Las actividades se incorporan progresivamente para mantener los ejercicios organizados y facilitar su revisión.
+- Maintain a clear and consistent XML structure.
+- Ensure that all tags are properly opened and closed.
+- Use an appropriate hierarchy of elements.
+- Apply consistent indentation to improve readability.
+- Use clear and consistent file names.
+- Keep a well-organized version history using GitHub.
 
 ---
 
-## 👨‍💻 Autor
+## 📈 Project Progress
+
+This repository serves as a record of the work completed during Unit 1. Assignments are added progressively to keep the exercises organized and make their review easier.
+
+---
+
+## 👨‍💻 Author
 
 **Alejandro Montilla Murillo**
 
-Repositorio académico de prácticas y actividades de XML.
+Academic repository for XML exercises and assignments.
 
 ---
 
-*Proyecto educativo desarrollado con fines de aprendizaje.*
+*Educational project developed for learning purposes.*
